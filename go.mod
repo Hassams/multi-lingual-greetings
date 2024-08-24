@@ -1,3 +1,3 @@
-module github.com/Hassams/multi-lingual-greetings
+module github.com/Hassams/greetings
 
 go 1.22.4
